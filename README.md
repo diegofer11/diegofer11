@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently working with **Vue JS**
 
 
 <h3 align="left">Languages and Tools:</h3>
