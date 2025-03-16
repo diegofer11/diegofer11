@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=diegofer11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 On a quest to master **Java 17** and **Spring Boot**! 🌟 These robust technologies are my tools for building **scalable and efficient backend applications** that deliver seamless user experiences.
+- 🌱 On a quest to master **Java 21** and **Spring Boot**! 🌟 These robust technologies are my tools for building **scalable and efficient backend applications** that deliver seamless user experiences.
 - 🔭 Currently immersed in **exciting personal projects**! 🚀
 
 ---
